@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseUrl": "./src", //orientar o TS que os arquivos que serão implementdados estão na pasta src
     "target": "es5",
     "lib": [
       "dom",
